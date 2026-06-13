@@ -49,8 +49,8 @@ Scriptor/
 
 ## ✅ Status de Implementação
 
-- [ ] Fase 1: Modelos Base
-- [ ] Fase 2: Serviços & Persistência
+- [x] Fase 1: Modelos Base
+- [x] Fase 2: Serviços & Persistência
 - [ ] Fase 3: Mapeamento de Tipos
 - [ ] Fase 4: Geradores SQL
 - [ ] Fase 5: UI Principal
